@@ -20,6 +20,7 @@ Sections covering the benefits of meditation, journaling, and therapy apps.
 Interactive timeline highlighting the evolution of mental health technology in India.
 Image gallery featuring popular mental wellness apps.
 Responsive design for various screen sizes.
+Interactive app logo buttons that redirect you to relevant website or app store when clicked on.
 
 
 🖼️ Screenshots
